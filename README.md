@@ -1,11 +1,11 @@
 
 **Projeto Integrador Grupo II**
 
-A API é uma atividade proposta pela instituição FATEC – Jessen Vidal, localizada em São José dos Campos, com o objetivo de integrar os estudantes no desenvolvimento de uma solução para uma situação problema sugerido pelo cliente interno.
+A API é uma atividade proposta pela instituição **FATEC** – Jessen Vidal, localizada em São José dos Campos, com o objetivo de integrar os estudantes no desenvolvimento de uma solução para uma situação problema sugerido pelo cliente interno.
 
 **Disciplinas Integradas**
 
-**Comunicação e expressão**
+**Fundamentos de comunicação e expressão**
 
 Profª Eliane Mergulhão Dias
 
@@ -17,7 +17,7 @@ Prof. Geraldo José Lombardi de Souza
 
 Prof. Claudio Etelvino de Lima
 
-**Logística Empresarial**
+**Logística empresarial**
 
 Prof. Rubens Barreto da Silva
 
@@ -39,8 +39,25 @@ Maria Eduarda Ferreira – ST (Scrum Team)
 
 **Objetivo do Projeto**
 
-Mapear e avaliar as cadeias produtivas da RMVALE por meio da coleta, tratamento e análise de dados de importação e exportação.
+Mapear e avaliar as cadeias produtivas da **RMVALE** por meio da coleta, tratamento e análise de dados de importação e exportação.
 
 **Objetivo da Sprint**
 
-**Sprint 1** – Identificar as principais cadeias produtivas da RMVALE; Identificar os principais produtos exportados e importados; Criar um mapa indicando os principais pólos geradores de demanda.
+**Sprint 1** – Identificar as principais cadeias produtivas da RMVALE; Identificar os principais produtos exportados e importados; Criar um mapa indicando os principais polos geradores de demanda.
+
+**Tecnologias utilizadas**
+
+- JiraSoftware
+- GitHub
+- PowerApps
+- PowerBi
+
+**Métodos utilizados** 
+
+- Swot
+- 5W2H
+
+
+
+
+

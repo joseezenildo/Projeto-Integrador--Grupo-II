@@ -12,9 +12,10 @@
 > **Professor MC.s Marcus Vinícius**
 
 ## Integrantes do Projeto :busts_in_silhouette: 
+  [Conheça mais da equipe](https://gustavoguanabara.github.io) 
 Product Owner | Scrum Master | Scrum Team
 :---: | ---: | :---
-José Ezenildo | Camilly Vitória| Daniel 
+José Ezenildo |Camilly Vitória| Daniel Miguel
 |   |               | Diego Campos
 |   |               | Douglas Abraão
 |   |               | Maria Eduarda

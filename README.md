@@ -1,7 +1,9 @@
-<h1 align="center"> ConsulTech </h1>
 
+<div align="center">
+  <img src="./logo.png" height="400" width="400"/>
 
-## API- Aprendizado por Projeto Integrador
+<h1 align="center"> API- Aprendizado por Projeto Integrador </h1>
+
 > :mag_right: [CONCEITO](https://github.com/joseezenildo/API--Conceito)
 >
 > 🔎 [OBEJTIVO](https://github.com/joseezenildo/Objetivo--API/tree/main) 
